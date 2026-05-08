@@ -1,4 +1,4 @@
-# DeceptaNet – AI-Driven Adaptive Honeypot Framework
+# DeceptaNet – Adaptive Honeypot Framework
 
 DeceptaNet is a next-generation cybersecurity deception framework that leverages Artificial Intelligence (AI), Machine Learning (ML), and Reinforcement Learning (RL) to dynamically deceive cyber attackers, analyze their behavior, and generate actionable threat intelligence in real time.
 
